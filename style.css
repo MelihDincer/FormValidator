@@ -1,0 +1,36 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+.card-header{
+    background-color: #636e72; 
+    height: 60px;
+    font-style: Sans-serif;
+    font-size: 24px;
+    font-weight:normal;
+    color: rgb(214, 203, 202);
+
+}
+
+.card-body {
+    background-color: #b2bec3;
+}
+
+.form-group label {
+    color: rgb(15, 20, 67);
+    font-style: Sans-serif;
+    font-size: 20px;
+}
+
+.form-group input {
+    height: 45px;
+}
+
+button {
+    height: 45px;
+}
